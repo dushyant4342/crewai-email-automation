@@ -28,8 +28,7 @@ wheels/
 
 # Generated drafts
 draft_email_*.txt
-example*.py
-__init__.py
+
 # IDE
 .vscode/
 .idea/
